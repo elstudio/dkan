@@ -1,5 +1,7 @@
 # DKAN Open Data Platform
 
+Test edit. Which is junk, really. Sorry.
+
 DKAN is an open source open data platform with a full suite of cataloging, publishing and visualization features that allow organizations to easily publish data to the public.
 
 *  [ Official website ](https://getdkan.org)
